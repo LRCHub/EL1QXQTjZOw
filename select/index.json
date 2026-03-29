@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ふたりの暮らし",
+  "base_artist": "Dannie May",
+  "createdAt": "2026-03-29T05:39:29.616386Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ふたりの暮らし",
+      "artist": "Dannie May",
+      "has_synced": false,
+      "path": "select/pl_01_ふたりの暮らし_Dannie_May.txt"
+    }
+  ]
+}
